@@ -131,8 +131,6 @@ And in the end, she puts her hands on the heart of the universe and does the one
 | `poster.png` | Official trailer poster image |
 | `Echoes_of_the_Unborn_Sun.rar` | Full story bible, character images & reference art *(password protected)* |
 
-> **Password hint:** The name of Lyra's home planet. *(It's somewhere on this page.)*
-
 ---
 
 ## The Vibe
@@ -147,7 +145,7 @@ Painterly 2D characters. Volumetric 3D worlds. A dead sun waiting to be reborn.
 
 ## Interested?
 
-This project is actively seeking a **co-production partner** for development.
+This project is actively seeking a **Co-Production partner** for development.
 
 Full pitch bible, character designs, and visual references available on request.
 
@@ -161,5 +159,5 @@ Full pitch bible, character designs, and visual references available on request.
 ---
 
 <p align="center">
-  <sub>© 2026 [YOUR NAME] — All Rights Reserved. Confidential materials enclosed.</sub>
+  <sub>© 2026 Dave Jenkins — All Rights Reserved. Confidential materials enclosed.</sub>
 </p>
